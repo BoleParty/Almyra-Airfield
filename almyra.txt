@@ -5030,7 +5030,6 @@ BoleParty
     {"Land_OfficeChair_01_F", {23137.6, 17544.3, 5.01964}, 45.4286,true},
     {"Land_Rack_F", {23136.4, 17537, 5.02237}, 0.429,true},
     {"Fridge_01_closed_F", {23145.9, 17543.6, 5.03234}, 270,true},
-    {"Land_ShelvesWooden_khaki_F", {23138.1, 17527.7, 0}, 0,true},
     {"Land_TableDesk_F", {23136.7, 17544, 5.00468}, 90.4286,true},
     {"Land_WaterCooler_01_old_F", {23141.6, 17523.2, 0}, 0,true},
     {"Land_WaterCooler_01_new_F", {23145.8, 17544.7, 5.03894}, 272.571,true},
@@ -5075,4 +5074,4 @@ BoleParty
     {"Land_Wreck_Truck_F", {22910.8, 18573.4, 0}, 12.8571,true},
     {"Land_Wreck_Truck_F", {22904.1, 18574.8, 0}, 197.571,true},
     {"Land_Wreck_Truck_F", {22919.8, 18570.6, 0}, 16.2857,true},
-	{"Land_Wreck_Plane_Transport_01_F", {23190.8, 18803.2, -1.35702}, 351.429, true}
+    {"Land_Wreck_Plane_Transport_01_F", {23190.8, 18803.2, -1.35702}, 351.429, true}
