@@ -269,8 +269,8 @@ class Altis : Default
 			{ "Land_HBarrier_1_F", { 18458.1, 14290.3, 0.0128841 }, 317.438, true },
 			//Air Drop Event Helipad Start
 			{ "Land_dp_bigTank_F", { 14328.1, 13488.2, -0.64909101 }, 182, true },
-			//Almyra Airfield
-			{"Land_Hospital_side2_F", {22978.5, 18739.4, 0.11418}, 36.4285, true},
+	//Almyra Airfield
+	    {"Land_Hospital_side2_F", {22978.5, 18739.4, 0.11418}, 36.4285, true},
     {"Land_Hospital_main_F", {23006.9, 18730.9, 0.117336}, 36.4285, true},
     {"Land_Hospital_side1_F", {23030.1, 18754.2, 0.12}, 36.7, true},
     {"Land_HBarrierWall6_F", {22975.2, 18784.8, 0}, 217.714, true},
@@ -303,7 +303,7 @@ class Altis : Default
     {"Land_Pier_F", {23185.9, 18863.8, -2.26333}, 90.4286, true},
     {"Land_Pier_F", {23185.6, 18822.4, -2.26333}, 90.4286, true},
     {"Land_Pier_F", {23185.3, 18781, -2.26333}, 90.4286, true},
-    {"Land_Pier_F", {23185, 18739.5, -2.26333}, 90.4286, true,
+    {"Land_Pier_F", {23185, 18739.5, -2.26333}, 90.4286, true},
     {"Land_Pier_F", {23184.7, 18698.1, -2.26333}, 90.4286, true},
     {"Land_Pier_F", {23184.3, 18656.7, -2.26333}, 90.4286, true},
     {"Land_Pier_F", {23184, 18615.3, -2.26333}, 90.4286, true},
@@ -5026,7 +5026,7 @@ class Altis : Default
     {"Land_BagFence_Long_F", {23119.1, 17579.3, 3.94411}, 90.429, true},
     {"Land_BagFence_Long_F", {23119.1, 17584.7, 3.94411}, 90.429, true},
     {"Land_BagFence_Long_F", {23119.1, 17589.7, 3.94411}, 90.429, true},
-    {"Land_BagFence_Long_F", {23120.8, 17591, 3.94411}, 180.858 true},
+    {"Land_BagFence_Long_F", {23120.8, 17591, 3.94411}, 180.858, true},
     {"Land_BagFence_Long_F", {23124.9, 17582.4, 4.96876}, 90.429, true},
     {"Land_BagFence_Long_F", {23120.5, 17526, 3.94411}, 180, true},
     {"Land_BagFence_Long_F", {23124.5, 17534.7, 4.99017}, 90.429, true},
@@ -5165,7 +5165,7 @@ class Altis : Default
     {"Land_New_WiredFence_10m_Dam_F", {23162.1, 17499.1, -0.171139}, 270.429, true},
     {"Land_Mil_WallBig_Corner_F", {23123.6, 17510.2, 0}, 0, true},
     {"Land_Mil_WallBig_4m_F", {23123, 17513, 0}, 270.429, true},
-    {"Land_Mil_WallBig_4m_F", {23121.1, 17593.9, 0}, 315.143 true},
+    {"Land_Mil_WallBig_4m_F", {23121.1, 17593.9, 0}, 315.143, true},
     {"Land_Mil_WallBig_4m_F", {23120.6, 17523, 0}, 225.286, true},
     {"Land_New_WiredFence_10m_Dam_F", {23163.1, 17618.5, -0.17114}, 270.429, true},
     {"Land_Sun_chair_green_F", {23126.2, 17603.7, 0.0423477}, 180.429, true},
