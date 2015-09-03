@@ -270,7 +270,7 @@ class Altis : Default
 			//Air Drop Event Helipad Start
 			{ "Land_dp_bigTank_F", { 14328.1, 13488.2, -0.64909101 }, 182, true },
 	//Almyra Airfield
-     {"Land_Hospital_side2_F", {22978.5, 18739.4, 0.11418}, 36.4285,true},
+	{"Land_Hospital_side2_F", {22978.5, 18739.4, 0.11418}, 36.4285,true},
     {"Land_Hospital_main_F", {23006.9, 18730.9, 0.117336}, 36.4285,true},
     {"Land_Hospital_side1_F", {23030.1, 18754.2, 0.12}, 36.7,true},
     {"Land_HBarrierWall6_F", {22975.2, 18784.8, 0}, 217.714,true},
@@ -5342,7 +5342,8 @@ class Altis : Default
     {"Land_Wreck_Truck_F", {22919.5, 18680.5, 0}, 307.714,true},
     {"Land_Wreck_Truck_F", {22910.8, 18573.4, 0}, 12.8571,true},
     {"Land_Wreck_Truck_F", {22904.1, 18574.8, 0}, 197.571,true},
-    {"Land_Wreck_Truck_F", {22919.8, 18570.6, 0}, 16.2857,true}
+    {"Land_Wreck_Truck_F", {22919.8, 18570.6, 0}, 16.2857,true},
+    {"Land_Wreck_Plane_Transport_01_F", {23190.8, 18803.2, -1.35702}, 351.429, true}
 	};
 	staticNpcPos[] = {
 			// tradercity 1
